@@ -80,6 +80,11 @@ function start()
                         j++;
                         back();break;
                     }
+                    if (textContains("很抱歉，本次活动为邀请制").exists()) {
+                        log("跳过本次任务");
+                        j++;
+                        back();break;
+                    }
                     if (textContains("复制链接").exists()) {
                         log("跳过分享任务");
                         j++;
