@@ -6,7 +6,7 @@
 * 开启无障碍服务并授权给Auto.js后，运行脚本即可
 ## 下载链接
 * [豌豆荚淘宝历史版本下载](https://www.wandoujia.com/apps/32267/history)
-* [Auto.js]()
-* 进GitHub不好下载脚本的，可以点击[这里]()下载
+* [Auto.js下载](https://wws.lanzous.com/iwVE0iya6ra) ，密码:beje
+* 进GitHub不好下载脚本的，可以点击[这里](https://wws.lanzous.com/iGrXkiya5yb)下载
 
 
