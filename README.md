@@ -18,6 +18,7 @@ v1.1.1--2020-12-02
 * 进GitHub不好下载脚本的，可以点击[这里](https://wws.lanzous.com/iZGW6iz2rbi)下载
 ## 微信交流群
 有什么问题大家可以在群里讨论
-![微信交流群](https://github.com/YBQ789/taobao-1212/blob/main/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4.png)
+
+![微信交流群](https://github.com/YBQ789/taobao-1212/blob/main/wechat.png)
 
 
