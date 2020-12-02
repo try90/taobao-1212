@@ -3,9 +3,12 @@
  *
  * Author: YBQ789
  * Date: 2020/12/01
- * Versions: 1.1.0
+ * Versions: 1.1.1
  * Github: https://github.com/YBQ789/taobao-1212
  */
+
+ //版本号
+versions = 'V1.1.0';
 
 //无障碍判定
 try {
@@ -27,8 +30,13 @@ var height = device.height;//获取设备的高度
 //开始运行
 function run()
 {
+    console.show();
+    console.setPosition(0, 0);
+    sleep(1000);
+    console.setSize(width/1.5,height/5);
     setScreenMetrics(width, height);
-    toast("设备宽："+width+"，高："+height);
+    toast("开始运行");
+    log("正在启动淘宝APP");
     launchApp("手机淘宝");
     sleep(3000);
     //进入搜索界面
@@ -39,6 +47,7 @@ function run()
         setText("欢乐造红包");
         sleep(1000);
         textContains(text).click();
+        log("正在进入活动页面");
         sleep(1000);
         start();
     }
@@ -46,10 +55,6 @@ function run()
 //任务开始
 function start()
 {
-    console.show();
-    console.setPosition(0, 0);
-    sleep(1000);
-    console.setSize(width/1.5,height/5);
     textContains("领欢乐币").waitFor();
     sleep(1500);
     if(get("领欢乐币")){
@@ -112,6 +117,11 @@ function start()
                         j++;
                         back();break;
                     }
+                    if (textContains("轻点照亮").exists()||textContains("垃圾分类").exists()) {
+                        log("跳过拍立淘任务");
+                        j++;
+                        back();break;
+                    }
                     if(textContains("浏览").exists()||descContains("浏览").exists()){
                         var txt = ["任务完成","任务已完成","任务已经全部完成啦"];     
                         sleep(17000);
@@ -128,6 +138,16 @@ function start()
             sleep(3000);
         }
     }
+    //立即领取任务
+    count = 3;
+    while(text("立即领取").exists()){
+        text("立即领取").findOne().click();
+        sleep(1500);
+        count--;
+        if(count<0){
+            break;
+        }
+    }
     console.info("脚本结束")
     sleep(500);
     console.hide();
@@ -135,6 +155,5 @@ function start()
 }
  
 //开始执行run
-alert("【淘宝双十二活动脚本】\n\n脚本执行过程请勿手动点击屏幕，否则脚本执行可能会错乱，导致任务失败\n执行过程中可按音量+键终止\n\n执行淘宝任务时请确保使用低版本淘宝（V9.0.0及以下），否则无法获取奖励\n\n最新版脚本请到GitHub获取\nhttps://github.com/YBQ789/taobao-1212\n\nPowered By YBQ789");
+alert("【淘宝双十二活动脚本"+versions+"】\n\n脚本执行过程请勿手动点击屏幕，否则脚本执行可能会错乱，导致任务失败\n执行过程中可按音量+键终止\n\n执行淘宝任务时请确保使用低版本淘宝（V9.0.0及以下），否则无法获取奖励\n\n最新版脚本请到GitHub获取\nhttps://github.com/YBQ789/taobao-1212\n\nPowered By YBQ789");
 run();
-alert("任务已完成")
