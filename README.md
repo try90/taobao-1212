@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-1.1.1-blue)
+![](https://img.shields.io/badge/version-1.1.1-blue)     ![](https://img.shields.io/badge/-Auto.js-inactive)
 # 淘宝双十二活动脚本
 ## 更新日志
 v1.1.1--2020-12-02
