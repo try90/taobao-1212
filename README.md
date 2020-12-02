@@ -14,7 +14,7 @@ v1.1.1--2020-12-02
 ## 下载链接
 * [豌豆荚淘宝历史版本下载](https://www.wandoujia.com/apps/32267/history)
 * [Auto.js下载](https://wws.lanzous.com/iwVE0iya6ra) ，密码:beje
-* 进GitHub不好下载脚本的，可以点击[这里](https://wws.lanzous.com/iGrXkiya5yb)下载
+* 进GitHub不好下载脚本的，可以点击[这里](https://wws.lanzous.com/iZGW6iz2rbi)下载
 
 
 
