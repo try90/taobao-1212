@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-1.1.1-blue)     ![](https://img.shields.io/badge/-Auto.js-inactive)
+![](https://img.shields.io/badge/version-1.1.1-blue) ![](https://img.shields.io/badge/-Auto.js-yellowgreen) ![](https://img.shields.io/badge/-JavaScript-orange) ![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E7%BE%A4-important)
 # 淘宝双十二活动脚本
 ## 更新日志
 v1.1.1--2020-12-02
@@ -16,6 +16,8 @@ v1.1.1--2020-12-02
 * [豌豆荚淘宝历史版本下载](https://www.wandoujia.com/apps/32267/history)
 * [Auto.js下载](https://wws.lanzous.com/iwVE0iya6ra) ，密码:beje
 * 进GitHub不好下载脚本的，可以点击[这里](https://wws.lanzous.com/iZGW6iz2rbi)下载
-
+## 微信交流群
+有什么问题大家可以在群里讨论
+![微信交流群](https://github.com/YBQ789/taobao-1212/blob/main/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4.jpg)
 
 
