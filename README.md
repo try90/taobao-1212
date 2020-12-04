@@ -24,7 +24,6 @@
 ## 微信交流群
 有什么问题大家可以在群里讨论，如果群二维码失效了加这个微信：vx955zzx
 
-![微信群二维码](https://github.com/YBQ789/taobao-1212/blob/main/wechat.png)
-
+![微信群二维码](http://cjybq.cool/2020/08/20/%E7%94%A85%E8%A1%8Cpython%E4%BB%A3%E7%A0%81%E5%AE%8C%E6%88%90%E8%AF%81%E4%BB%B6%E7%85%A7%E6%8D%A2%E5%BA%95%E8%89%B2/#&gid=1&pid=1)
 
 
