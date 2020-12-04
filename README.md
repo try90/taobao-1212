@@ -22,7 +22,7 @@
 * [Auto.js下载](https://wws.lanzous.com/iwVE0iya6ra) ，密码:beje
 * 进GitHub不好下载脚本的，可以点击[这里](https://wws.lanzous.com/idnSUj087od)下载
 ## 微信交流群
-有什么问题大家可以在群里讨论
+有什么问题大家可以在群里讨论，如果群二维码失效了加这个微信：vx955zzx
 
 ![微信群二维码](https://github.com/YBQ789/taobao-1212/blob/main/wechat.png)
 
