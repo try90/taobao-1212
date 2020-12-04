@@ -24,6 +24,6 @@
 ## 微信交流群
 有什么问题大家可以在群里讨论
 
-![](https://github.com/YBQ789/taobao-1212/blob/main/wechat.png)
+![](https://gitee.com/cjybq/taobao-1212/blob/main/wechat.png)
 
 
