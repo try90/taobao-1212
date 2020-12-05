@@ -1,6 +1,10 @@
 ![](https://img.shields.io/badge/version-1.2.0-blue) ![](https://img.shields.io/badge/-Auto.js-yellowgreen) ![](https://img.shields.io/badge/-JavaScript-orange) ![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E7%BE%A4-important)
 # 淘宝双十二活动脚本
 ## 更新日志
+
+**v2.0.0--2020-12-05**
+* 新增直接打开活动界面功能
+
 **v1.2.0--2020-12-03**
 * 新增自动跳过游戏功能
 * 新增自动跳过开通88VIP功能
