@@ -4,6 +4,8 @@
 
 **v2.0.0--2020-12-05**
 * 新增直接打开活动界面功能
+* 新增调速功能，可自由选择调节脚本的操作间隔，旧手机的福音
+* 应很多网友要求，已将脚本打包成apk，省去了繁琐的脚本导入步骤，实现了脚本的即开即用
 
 **v1.2.0--2020-12-03**
 * 新增自动跳过游戏功能
@@ -24,7 +26,8 @@
 ## 下载链接
 * [豌豆荚淘宝历史版本下载](https://www.wandoujia.com/apps/32267/history)
 * [Auto.js下载](https://wws.lanzous.com/iwVE0iya6ra) ，密码:beje
-* 进GitHub不好下载脚本的，可以点击[这里](https://wws.lanzous.com/iSYCpj2m8de)下载
+* 进GitHub不好下载脚本的，可以点击[这里](https://wws.lanzous.com/iphNIj2w3sj)下载
+* 脚本APK[下载](https://wws.lanzous.com/iQdB6j2vyvc)，密码:a182
 ## 微信交流群
 有什么问题大家可以在群里讨论，如果群二维码失效了加这个微信：vx955zzx
 
