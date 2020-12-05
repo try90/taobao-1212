@@ -25,6 +25,5 @@
 有什么问题大家可以在群里讨论，如果群二维码失效了加这个微信：vx955zzx
 
 ![微信群二维码](https://github.com/YBQ789/taobao-1212/blob/main/wechat.png)
-![](https://gitee.com/cjybq/images/blob/master/%E5%89%91%E5%AE%A2.png)
 
 
