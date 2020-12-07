@@ -60,7 +60,7 @@ function redEnvelopeStart()
     while(true){
         if(text("去完成").findOnce(j)!=null){
             t = className("android.widget.Button").text("去完成").findOnce(j).parent().child(0).child(0).text();
-            if(t=="去芭芭农场施肥1次(0/1)"||t.split("(")[0]=="邀请5个好友一起玩"||t=="去淘宝特价版领奖励！(0/1)"||t=="玩省钱消消消得欢乐币(0/1)"||t=="连续包月得欢乐币！(0/1)"){
+            if(t=="去芭芭农场施肥1次(0/1)"||t.split("(")[0]=="邀请5个好友一起玩"||t=="开通金币月卡得欢乐币(0/1)"||t=="去淘宝特价版领奖励！(0/1)"||t=="玩省钱消消消得欢乐币(0/1)"||t=="连续包月得欢乐币！(0/1)"){
                 log("跳过-"+t.split("(")[0]+"-任务");
                 j++;
             }else{
