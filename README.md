@@ -30,7 +30,7 @@
 ## 下载链接
 * [豌豆荚淘宝历史版本下载](https://www.wandoujia.com/apps/32267/history)
 * [Auto.js下载](https://wws.lanzous.com/iwVE0iya6ra) ，密码:beje
-* 进GitHub不好下载脚本的，可以点击[这里](https://wws.lanzous.com/iWra0j4mmfc)下载
+* 进GitHub不好下载脚本的，可以点击[这里](https://wws.lanzous.com/iWraoj4mmfc)下载
 * 脚本APK[下载](https://wws.lanzous.com/i7MFnj4mqkb)，密码:d4qa
 ## 微信交流群
 有什么问题大家可以在群里讨论，如果群二维码失效了加这个微信：vx955zzx
