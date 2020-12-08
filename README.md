@@ -1,6 +1,10 @@
-![](https://img.shields.io/badge/version-2.1.0-blue) ![](https://img.shields.io/badge/-Auto.js-yellowgreen) ![](https://img.shields.io/badge/-JavaScript-orange) ![](https://img.shields.io/badge/QQ-%E7%BE%A4-orange)
+![](https://img.shields.io/badge/version-2.2.0-blue) ![](https://img.shields.io/badge/-Auto.js-yellowgreen) ![](https://img.shields.io/badge/-JavaScript-orange) ![](https://img.shields.io/badge/QQ-%E7%BE%A4-orange)
 # 淘宝双十二活动脚本
 ## 更新日志
+
+**v2.2.0--2020-12-08**
+* 新增任务选择功能
+* 优化了代码结构，提升了脚本运行的稳定性
 
 **v2.1.0--2020-12-07**
 * 新增自动做淘金币任务功能
@@ -30,8 +34,8 @@
 ## 下载链接
 * [豌豆荚淘宝历史版本下载](https://www.wandoujia.com/apps/32267/history)
 * [Auto.js下载](https://wws.lanzous.com/iwVE0iya6ra) ，密码:beje
-* 进GitHub不好下载脚本的，可以点击[这里](https://wws.lanzous.com/idVoUj4pgyd)下载
-* 脚本APK[下载](https://wws.lanzous.com/i7MFnj4mqkb)，密码:d4qa
+* 进GitHub不好下载脚本的，可以点击[这里](https://wws.lanzous.com/iB1uJj5lh3a)下载
+* 脚本APK[下载](https://wws.lanzous.com/iS9qyj5lkte)，密码:7yk9
 ## QQ交流群
 有什么问题大家可以在群里讨论，如果群二维码失效了加这个微信：vx955zzx
 
