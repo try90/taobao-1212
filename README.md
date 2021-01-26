@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-2.2.0-blue) ![](https://img.shields.io/badge/-Auto.js-yellowgreen) ![](https://img.shields.io/badge/-JavaScript-orange) ![](https://img.shields.io/badge/QQ-%E7%BE%A4-orange)
+![](https://img.shields.io/badge/version-2.2.0-blue) ![](https://img.shields.io/badge/-Auto.js-yellowgreen) 
 # 淘宝双十二活动脚本
 ## 更新日志
 
