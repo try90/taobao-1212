@@ -1,10 +1,9 @@
 /**
  * 淘宝双十二活动脚本
  *
- * Author: YBQ789
+ * Author: 流年
  * Date: 2020/12/07
  * Versions: 2.2.0
- * Github: https://github.com/YBQ789/taobao-1212
  */
 
 //全局参数
@@ -243,7 +242,7 @@ function run()
 }
 
 //开始执行run
-alert("【淘宝双十二活动脚本"+versions+"】\n\n脚本执行过程请勿手动点击屏幕，否则脚本执行可能会错乱，导致任务失败\n执行过程中可按音量+键终止\n\n执行淘宝任务时请确保使用低版本淘宝（V9.0.0及以下），否则无法获取奖励\n\n最新版脚本请到GitHub获取\nhttps://github.com/YBQ789/taobao-1212\n\nPowered By YBQ789");
+alert("【淘宝双十二活动脚本"+versions+"】\n\n脚本执行过程请勿手动点击屏幕，否则脚本执行可能会错乱，导致任务失败\n执行过程中可按音量+键终止\n\n执行淘宝任务时请确保使用低版本淘宝（V9.0.0及以下），否则无法获取奖励");
 speedChoose();
 taskChoose();
 run();
